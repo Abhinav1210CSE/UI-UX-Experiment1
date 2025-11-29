@@ -12,8 +12,8 @@ To explore the Hands-on UI/UX Experiments
 4.Try Design Tools Practice with tools like Figma or Adobe XD to create and test your own designs
 
 ## Output:
+[Abhinav ui ux  lab task (1).pdf](https://github.com/user-attachments/files/23832563/Abhinav.ui.ux.lab.task.1.pdf)
 
-[Uploading Abhinav ui ux  lab task (1).pdf…]()
 
 ## Result:
 the aim is completed and verified
